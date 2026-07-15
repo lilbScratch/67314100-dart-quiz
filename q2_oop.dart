@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 abstract class MenuItem{
   final String name;
   final double basePrice;
